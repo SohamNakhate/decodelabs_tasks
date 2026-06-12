@@ -84,6 +84,31 @@ An Object-Oriented Java application that simulates ATM operations using separate
 
 ---
 
+### 💱 Project 4 — Currency Converter
+
+A Java-based currency conversion application that converts amounts between multiple currencies using predefined exchange rates.
+
+#### Features
+
+* Multiple currency support (USD, INR, EUR, GBP)
+* Source and target currency selection
+* Real-time conversion calculations
+* Input validation
+* User-friendly menu-driven interface
+* Multiple conversions in a single session
+
+#### Concepts Used
+
+* Variables & Data Types
+* Arithmetic Operations
+* Switch Statements
+* Loops
+* Input Validation
+* Exception Handling
+
+---
+
+
 ## 🛠️ Technologies Used
 
 * Java
@@ -110,6 +135,9 @@ DecodeLabs-Internship/
 │   └── DecodeLabs_Java_P3
 │   └── ATM
 │   └── BankAccount
+│
+├── Task_04/
+│   └── DecodeLabs_Java_P4
 │
 └── README.md
 ```
